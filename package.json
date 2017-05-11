@@ -1,0 +1,19 @@
+{
+  "name": "calculating-functions",
+  "version": "1.0.0",
+  "description": "This time we want to write calculations using functions and get the results. Let's have a look at some examples:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMLarsen/calculating-functions.git"
+  },
+  "author": "Steve Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMLarsen/calculating-functions/issues"
+  },
+  "homepage": "https://github.com/SMLarsen/calculating-functions#readme"
+}
